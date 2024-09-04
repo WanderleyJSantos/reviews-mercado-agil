@@ -1,1 +1,3 @@
-reviewer-env/
+review-mercado-agil-env/
+.env
+*.env
