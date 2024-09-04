@@ -1,3 +1,4 @@
 review-mercado-agil-env/
 .env
 *.env
+*teste.*
